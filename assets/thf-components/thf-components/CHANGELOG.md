@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [21.18.0](https://dev.azure.com/totvstfs/THF/_git/thf-components/compare/v21.17.0...v21.18.0) (2026-06-01)
+
+
+### Features
+
+* **grid:** expoe métodos exportToPdf e exportToExcel ([97b4621](https://dev.azure.com/totvstfs/THF/_git/thf-components/commit/97b4621acd8728b52cce7061aba712b001c10d2a))
+* **grid:** implementa empty-state para melhoria de usabilidade ([3a49a57](https://dev.azure.com/totvstfs/THF/_git/thf-components/commit/3a49a57151e144550042cff95d3658db8533e8a7))
+* **user-guide:** implementa serviço po-user-guide ([dcc75da](https://dev.azure.com/totvstfs/THF/_git/thf-components/commit/dcc75da5fb637cf9472eb3d85fd40fb990dc668b))
+
 ## [21.17.0](https://dev.azure.com/totvstfs/THF/_git/thf-components/compare/v21.16.0...v21.17.0) (2026-05-25)
 
 
